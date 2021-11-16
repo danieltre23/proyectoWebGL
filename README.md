@@ -5,3 +5,5 @@ Animación de un juego de ping pong. El ciclo que la pelota va a seguir será es
 Se utilizará Unity para el proyecto y esto será exportado a WebGL.
 
 ![alt text](./ping_pong_table.jpeg)
+
+Se utilizan assets de este paquete: https://assetstore.unity.com/packages/3d/props/free-barcade-asset-pack-123704
