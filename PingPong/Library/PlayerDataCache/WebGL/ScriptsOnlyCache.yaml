@@ -500,4 +500,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/danieltrevino/Desktop/main/TEC/7mo/graficas/pingpongbuild
+  playerPath: /Users/danieltrevino/Desktop/main/TEC/7mo/graficas/proyectoWebGL/pingpongbuild
